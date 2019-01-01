@@ -6,7 +6,7 @@ sudo apt-get install python3-pip
 pip3 install -r requirements.txt
 
 
-despues debes de iniciar el archivo .py con los siguientes comandos
+despues debes de iniciar el archivo .py con el siguiente comando
 
 python3 attack.py
 
