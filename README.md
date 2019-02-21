@@ -11,3 +11,6 @@ despues debes de iniciar el archivo .py con el siguiente comando
 python3 attack.py
 
 y listo
+
+
+https://premiumpastes.com/?v=81
