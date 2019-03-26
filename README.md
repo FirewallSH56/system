@@ -11,6 +11,3 @@ despues debes de iniciar el archivo .py con el siguiente comando
 python3 attack.py
 
 y listo
-
-
-https://mega.nz/#!nPhWWKzD!RajXim4fnoEghHzvNIe9Vq8RioHyfOdVtVpxlV9vm_g
